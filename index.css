@@ -1,0 +1,27 @@
+body{
+    font-family: 'Cabin', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.half-wdith{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    text-align: center;
+}
+h3{
+    color:orange;
+}
+h1{
+    color: red
+}
+h2{
+    color: blue;
+}
+.border{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
