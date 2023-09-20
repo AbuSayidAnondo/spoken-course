@@ -19,9 +19,22 @@ h1{
     color: red
 }
 h2{
-    color: blue;
+    color: cyan;
 }
 .border{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
+    height: 100%;
+}
+.border2{
+    box-shadow: 10px 10px 40px cyan;
+    border-radius: 10px;
+    height: 100%;
+}
+.top-banner{
+    height: 7000px;
+    margin-bottom: 20px;
+}
+.top-banner2{
+    height: 4000px;
 }
